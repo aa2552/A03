@@ -2,8 +2,8 @@
 Assignment for IS117
 
 PART 1: WEBSTORM/GIT INSTRUCTIONS
-	
-	Github:-
+
+Github:-
 1. Create an account on Github.
 2. Use the dropdown menu on the top right with the + icon and select ‘New Repository’
 3. Give the repository a name.
