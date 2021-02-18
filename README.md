@@ -12,7 +12,7 @@ PART 1: WEBSTORM/GIT INSTRUCTIONS
 6. Once finished, click on ‘CREATE REPOSITORY’
 	
 	
-	GIT/Webstorm:-
+		GIT/Webstorm:-
 9. Instal Webstorm from (follow the installation process): https://www.jetbrains.com/community/education/
 10. Download GIT from: https://git-scm.com/downloads and install the executable file (double click file) and remember path.
 11. Start Webstorm.
