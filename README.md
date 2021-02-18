@@ -37,15 +37,27 @@ PART 1: WEBSTORM/GIT INSTRUCTIONS
  
  
 PART 2: GLOSSARY
+
 **Branch** - Version of project that diverges from main project. Can have more than one branch.
+
 **Clone** - Used to copy a the target project into the local machine
+
 **Commit** - Used to record changes onto the repository as a snapshot,  contains a commit message. 
+
 **Fetch** - Used to update remote repository with new commits and other data.
+
 **GIT** - Version control system. Tracks changes a user makes to the file and can revert back to any state. Enables collaboration.
+
 **Github** - GIT hosting service, website version of GIT.
+
 **Merge** - Used to combine two branches. Current branch updates to reflect change while the secondary branch remains unaffected.
-**Merge** Conflict - Happens when two edited branches are being merged but GIT is not able to identify which changes should be combined.
+
+**Merge Conflict** - Happens when two edited branches are being merged but GIT is not able to identify which changes should be combined.
+
 **Push** - Upload content from local repository to remote. Happens after commit. 
+
 **Pull** - Fetch and Merge changes from remote repository to local repository. In collaboration, happens when a feature is completed.
+
 **Remote** - Stored on a hosting server. Shared repository by all members to make working changes to.
+
 **Repository** - Contains project files and history of changes (commits)
